@@ -17,6 +17,3 @@ with open(r'current_members/current_members.csv', mode='r') as csv_file:
     with open('new_members/twice_enrolled.csv', mode='w', newline='') as new_file:
         writer = csv.DictWriter(new_file, fieldnames=reader.fieldnames)
         writer.writerows(twice_enrolled)
-
-
-

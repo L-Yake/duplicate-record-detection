@@ -6,7 +6,7 @@ import time
 def duplicate_check(key, title=False):
     """
 
-    :param key: Accepts a dictionary key as a field for searching duplicates. (Ex. ['name', 'email', etc.]
+    :param key: Accepts a dictionary key as a field for searching duplicates. (Ex. ['name', 'email', etc.])
     :param title: Accepts a string as a title and creates a new CSV-file. Recommended format: organization-abbreviation_YYYY-MM-DD.csv
     :return: Returns list of duplicate entries and number of duplicate entries found.
     """
