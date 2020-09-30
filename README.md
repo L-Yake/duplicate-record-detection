@@ -1,6 +1,6 @@
 <h1>Learning to Work Smarter, Not Harder</h1>
 <p>Pythonic Automation: A script which references a collection of current members (1000 records), compares the list of 
-current members to a list of incoming members, and then the program returns the amount of people who have accidentally been 
+current members to a list of incoming members, and then returns the amount of people who have accidentally been 
 recorded more than once. 
 
 <br>
