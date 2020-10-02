@@ -5,5 +5,5 @@ recorded more than once.
 
 <br>
 <br>
-For a prettier version of this notebook, please use this <a href=https://github.com/L-Yake/duplicate-record-detection/blob/master/duplicate_check_nb.ipynb>link here</a>
+For a prettier version of this notebook, please use this <a href="https://nbviewer.jupyter.org/github/L-Yake/duplicate-record-detection/blob/master/duplicate_check_nb.ipynb">link here</a>
 </p>
